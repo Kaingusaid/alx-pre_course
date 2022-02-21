@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "ALX" > bash/alx
+echo -e #!/bin/bashnecho School
